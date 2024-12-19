@@ -40,10 +40,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: -53
-    y: -586
-    width: 4201
-    height: 3016
+    x: 2598
+    y: -422
+    width: 1550
+    height: 2852
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -255,7 +255,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614705}
   - {fileID: 8926484042661614709}
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_MasterSlot: {fileID: 8926484042661614704}
   m_MasterData:
@@ -264,7 +264,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.AABox, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.0},"size":{"x":1.0,"y":1.0,"z":1.0}}'
+      m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.0},"size":{"x":82.19999694824219,"y":55.93000030517578,"z":60.97999954223633}}'
     m_Space: 0
   m_Property:
     name: bounds
@@ -3824,7 +3824,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"966ea94de6da9884082daa565834b06f","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"a101dc1f91bb4b549b8c31417696ebe6","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: mainTexture

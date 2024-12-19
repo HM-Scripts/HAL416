@@ -726,6 +726,7 @@ Shader "Hidden/lilToonFur"
             #define LIL_FEATURE_BACKLIGHT
             #define LIL_FEATURE_PARALLAX
             #define LIL_FEATURE_POM
+            #define LIL_FEATURE_CLIPPING_CANCELLER
             #define LIL_FEATURE_DISTANCE_FADE
             #define LIL_FEATURE_AUDIOLINK
             #define LIL_FEATURE_AUDIOLINK_VERTEX
@@ -1194,6 +1195,7 @@ Shader "Hidden/lilToonFur"
             #define LIL_FEATURE_BACKLIGHT
             #define LIL_FEATURE_PARALLAX
             #define LIL_FEATURE_POM
+            #define LIL_FEATURE_CLIPPING_CANCELLER
             #define LIL_FEATURE_DISTANCE_FADE
             #define LIL_FEATURE_AUDIOLINK
             #define LIL_FEATURE_AUDIOLINK_VERTEX
