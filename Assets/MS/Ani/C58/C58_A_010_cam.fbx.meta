@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: c9fcf49325bac6749a836a2a956c7888
+guid: 59184a9c38edabb418359372b8a758ce
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
-      74: -740597964994250751
-    second: C58_A_002_cam_Anim01
+      74: -4733706197451110537
+    second: C58_A_010_cam_Anim01
   externalObjects: {}
   materials:
     materialImportMode: 2

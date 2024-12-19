@@ -350,7 +350,7 @@ MonoBehaviour:
     max: 32
   focalLength:
     m_OverrideState: 1
-    m_Value: 294
+    m_Value: 253
     min: 1
     max: 300
   bladeCount:
