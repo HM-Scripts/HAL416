@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 237f572d73aa63f4ab354e99a10ca17a
+guid: 8b446f1f03bb8a34e84d0f00cfdf1bc0
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
-      74: -4020837513931498515
-    second: C62_C_005_Taka_Anim01
+      74: -8825154023296253471
+    second: C63_A_007_cam_Anim01
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -15,7 +15,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
     rigImportErrors: 
@@ -26,7 +26,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 0
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5

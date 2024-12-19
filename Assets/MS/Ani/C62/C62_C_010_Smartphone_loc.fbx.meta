@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 237f572d73aa63f4ab354e99a10ca17a
+guid: 112ba5118d115904ea374b91226ef223
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
-      74: -4020837513931498515
-    second: C62_C_005_Taka_Anim01
+      74: -1499314621925317137
+    second: C62_C_010_Smartphone_loc_Anim01
   externalObjects: {}
   materials:
     materialImportMode: 2
