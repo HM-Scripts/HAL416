@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 7c96f50661e1e5848840b83b280bd0e0
+guid: 6a4891fb766da1642a833d8d0e1275c5
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
-      74: -6730315496220095954
-    second: C05_D_009_Nakashishi_Anim01
+      74: 3661002322992726049
+    second: C04_C_012_cam_Anim01
   externalObjects: {}
   materials:
     materialImportMode: 2
