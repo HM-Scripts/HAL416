@@ -270,11 +270,11 @@ MonoBehaviour:
   m_AdvancedMode: 0
   threshold:
     m_OverrideState: 1
-    m_Value: 1.04
+    m_Value: 0.66
     min: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 2.78
+    m_Value: 6.08
     min: 0
   scatter:
     m_OverrideState: 1
@@ -341,16 +341,16 @@ MonoBehaviour:
     m_Value: 1
   focusDistance:
     m_OverrideState: 1
-    m_Value: 11.64
+    m_Value: 6.04
     min: 0.1
   aperture:
     m_OverrideState: 1
-    m_Value: 16.7
+    m_Value: 8.1
     min: 1
     max: 32
   focalLength:
     m_OverrideState: 1
-    m_Value: 300
+    m_Value: 149
     min: 1
     max: 300
   bladeCount:
@@ -593,7 +593,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   type:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 1
   intensity:
     m_OverrideState: 1
     m_Value: 0.278
@@ -617,7 +617,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: C05
+  m_Name: C63
   m_EditorClassIdentifier: 
   components:
   - {fileID: -7893295128165547882}
@@ -650,7 +650,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.115
+    m_Value: 0.294
     min: 0
     max: 1
 --- !u!114 &2851799426562604125
@@ -686,13 +686,13 @@ MonoBehaviour:
   m_AdvancedMode: 0
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 1, z: 1, w: -0.16437548}
+    m_Value: {x: 1, y: 1, z: 1, w: -0.047330875}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 1, z: 1, w: 0.006562641}
+    m_Value: {x: 1, y: 1, z: 1, w: -0.24215738}
   highlights:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 1, z: 1, w: -0.12121561}
+    m_Value: {x: 1, y: 1, z: 1, w: -0.16510734}
   shadowsStart:
     m_OverrideState: 0
     m_Value: 0
